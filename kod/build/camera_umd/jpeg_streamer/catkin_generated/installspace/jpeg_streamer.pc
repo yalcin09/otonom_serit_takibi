@@ -1,0 +1,8 @@
+prefix=/home/yalcin/otonom_araba_projesi/install
+
+Name: jpeg_streamer
+Description: Description of jpeg_streamer
+Version: 0.2.7
+Cflags: 
+Libs: -L/home/yalcin/otonom_araba_projesi/install/lib 
+Requires: 

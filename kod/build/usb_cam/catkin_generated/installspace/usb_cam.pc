@@ -1,0 +1,8 @@
+prefix=/home/yalcin/otonom_araba_projesi/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/yalcin/otonom_araba_projesi/install/include
+Libs: -L/home/yalcin/otonom_araba_projesi/install/lib -lusb_cam
+Requires: 

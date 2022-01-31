@@ -1,0 +1,8 @@
+prefix=/home/yalcin/otonom_araba_projesi/devel
+
+Name: rosserial_python
+Description: Description of rosserial_python
+Version: 0.8.0
+Cflags: 
+Libs: -L/home/yalcin/otonom_araba_projesi/devel/lib 
+Requires: 

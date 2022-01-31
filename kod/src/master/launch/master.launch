@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+	<node name="serit_takip_node" pkg="master" type="serit_takip_node"/>
+</launch>

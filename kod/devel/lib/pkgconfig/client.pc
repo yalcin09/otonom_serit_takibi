@@ -1,0 +1,8 @@
+prefix=/home/yalcin/otonom_araba_projesi/devel
+
+Name: client
+Description: Description of client
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yalcin/otonom_araba_projesi/devel/lib 
+Requires: 
